@@ -806,3 +806,11 @@
 2026-04-07 15:11:54,701 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8593024643)
 2026-04-07 15:11:54,962 - aiogram.dispatcher - INFO - Polling stopped for bot @TomoshabopBot id=8593024643 - 'Kino'
 2026-04-07 15:11:54,965 - root - INFO - Bot to'xtatildi.
+2026-05-09 18:28:53,234 - database - INFO - Ma'lumotlar bazasi muvaffaqiyatli ishga tushirildi.
+2026-05-09 18:28:53,418 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-05-09 18:28:53,420 - apscheduler.scheduler - INFO - Added job "reset_weekly_searches" to job store "default"
+2026-05-09 18:28:53,420 - apscheduler.scheduler - INFO - Scheduler started
+2026-05-09 18:28:53,422 - aiogram.dispatcher - INFO - Start polling
+2026-05-09 18:28:54,714 - aiogram.dispatcher - INFO - Run polling for bot @TomoshabopBot id=8593024643 - 'Kino'
+2026-05-09 18:29:01,404 - aiogram.event - INFO - Update id=103090544 is handled. Duration 1547 ms by bot id=8593024643
+2026-05-09 18:29:02,965 - aiogram.event - INFO - Update id=103090545 is handled. Duration 203 ms by bot id=8593024643
